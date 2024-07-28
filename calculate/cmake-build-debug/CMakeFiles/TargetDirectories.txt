@@ -1,0 +1,3 @@
+C:/projects/Nasiba/calculate/cmake-build-debug/CMakeFiles/calculate.dir
+C:/projects/Nasiba/calculate/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/projects/Nasiba/calculate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
