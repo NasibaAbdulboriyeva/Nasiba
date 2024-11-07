@@ -1,0 +1,15 @@
+C:\c#\Nasiba\src\src\bin\Debug\net8.0\src.exe
+C:\c#\Nasiba\src\src\bin\Debug\net8.0\src.deps.json
+C:\c#\Nasiba\src\src\bin\Debug\net8.0\src.runtimeconfig.json
+C:\c#\Nasiba\src\src\bin\Debug\net8.0\src.dll
+C:\c#\Nasiba\src\src\bin\Debug\net8.0\src.pdb
+C:\c#\Nasiba\src\src\obj\Debug\net8.0\src.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Nasiba\src\src\obj\Debug\net8.0\src.AssemblyInfoInputs.cache
+C:\c#\Nasiba\src\src\obj\Debug\net8.0\src.AssemblyInfo.cs
+C:\c#\Nasiba\src\src\obj\Debug\net8.0\src.csproj.CoreCompileInputs.cache
+C:\c#\Nasiba\src\src\obj\Debug\net8.0\src.sourcelink.json
+C:\c#\Nasiba\src\src\obj\Debug\net8.0\src.dll
+C:\c#\Nasiba\src\src\obj\Debug\net8.0\refint\src.dll
+C:\c#\Nasiba\src\src\obj\Debug\net8.0\src.pdb
+C:\c#\Nasiba\src\src\obj\Debug\net8.0\src.genruntimeconfig.cache
+C:\c#\Nasiba\src\src\obj\Debug\net8.0\ref\src.dll
